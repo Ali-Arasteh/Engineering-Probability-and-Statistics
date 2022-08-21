@@ -1,2 +1,2 @@
-# Engineering-Probability-and-Statistics-Course-Assignments
+# Engineering-Probability-and-Statistics-Course
 Practical assignments
